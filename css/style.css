@@ -1,0 +1,18 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+
+.navbar {
+    background-color: yellowgreen;
+}
+.quem-somos {
+    background-color: blue;
+    color:white;
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
