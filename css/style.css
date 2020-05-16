@@ -12,7 +12,23 @@ body {
     color:white;
 }
 .margin {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
-
+.parceiros {
+    background-color: turquoise;
+}
+.logotipo {
+    width: 200px;
+    height: 100px;
+}
+.servicos {
+    background-color: teal;
+}
+.pmargin {
+    margin-top: 10px;
+}
+.bg-footer {
+    background-color:black;
+    color:white;
+}
